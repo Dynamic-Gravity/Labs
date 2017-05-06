@@ -1,0 +1,11 @@
+/*************************
+*Joseph Barton
+*CPSC 1021-004, F16
+*Lab 5
+*jbarto3
+**************************/
+
+
+1.tar -czvf stuff.tar.gz /1020Lab/1021_Lab_5
+2.tar -zxvf stuff.tar.gz
+3.GNU Zip

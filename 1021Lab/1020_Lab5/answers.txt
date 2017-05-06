@@ -1,0 +1,19 @@
+/*************************
+*Joseph Barton
+*CPSC 1021-004, F16
+*Lab 5
+*jbarto3
+**************************/
+
+This is test file.  Please answer the following questions.  Tar the file back up using the name answers.tar.gz
+
+What is your favorite color?
+Blue
+What is your favorite animal?
+Penguin
+I know you think this is a stupid assignment, am I correct?
+Possibly
+
+Sorry!
+
+See you on Wednesday!!!
